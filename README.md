@@ -1,1 +1,1 @@
-untuk databsenya gunakan file export yang sudah saya siapkan
+untuk databsenya gunakan file export yang sudah saya sediakan
